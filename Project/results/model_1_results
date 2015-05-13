@@ -1,0 +1,49 @@
+Tree:
+alpha =  15.1991108295
+Optimal Test Error =  0.376623376623
+Optimal Validation Error =  0.373913043478
+Optimal Training Error =  0.329842931937
+
+Gaussian Kernel SVM Model:
+C =  74989.4209332
+gamma =  3.16227766017e-08
+Optimal Test Error =  0.376623376623
+Optimal Validation Error =  0.382608695652
+Optimal Training Error =  0.298429319372
+
+Linear SVM Model:
+C =  0.0545559478117
+Optimal Test Error =  0.428571428571
+Optimal Validation Error =  0.417391304348
+Optimal Training Error =  0.287958115183
+
+Linear SVM Lasso Coefficients
+Home Team allPassIntDef 0.022648259621
+Home Team allRushYdsOff -0.0708460501347
+Home Team allRushAttDef -0.0413665512884
+Home Team bowlPassIntDef 0.00337709394223
+Home Team bowlRushYdsOff -0.052418563675
+Home Team bowlPassAttOff 0.00804776794812
+Home Team bowlPassCompDef -0.0919897817921
+Visitor allPassIntDef -0.0329824971329
+Visitor allPassYdsOff -0.00759729166271
+Visitor allPassCompDef 0.00417626704976
+Visitor bowlPassIntDef 0.0809049512445
+Visitor bowlPassYdsDef 0.111035088267
+Visitor bowlScoreDef 0.0209823754865
+Visitor bowlPassCompDef 0.00277418728724
+Line 0.245639557716
+
+Tree Model on Trimmed Data:
+alpha =  15.1991108295
+Optimal Test Error =  0.376623376623
+Optimal Validation Error =  0.373913043478
+Optimal Training Error =  0.329842931937
+
+Gaussian Kernel SVM Model on Trimmed Data:
+C =  42169.6503429
+gamma =  1e-07
+Optimal Test Error =  0.350649350649
+Optimal Validation Error =  0.391304347826
+Optimal Training Error =  0.30890052356
+

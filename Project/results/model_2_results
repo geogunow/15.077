@@ -1,0 +1,76 @@
+Tree Model:
+alpha =  15.1991108295
+Optimal Test Error =  0.376623376623
+Optimal Validation Error =  0.373913043478
+Optimal Training Error =  0.329842931937
+
+Random Forest Model:
+Using 13 estimators
+Optimal Test Error =  0.376623376623
+Optimal Validation Error =  0.460869565217
+Optimal Training Error =  0.0471204188482
+
+Logisitc Regression Model:
+Optimal Test Error =  0.324675324675
+Optimal Validation Error =  0.434782608696
+Optimal Training Error =  0.17277486911
+
+Naive Bayes:
+Optimal Test Error =  0.363636363636
+Optimal Validation Error =  0.408695652174
+Optimal Training Error =  0.303664921466
+
+Gaussian Kernel SVM Model:
+C =  42169.6503429
+gamma =  4.64158883361e-08
+Optimal Test Error =  0.38961038961
+Optimal Validation Error =  0.382608695652
+Optimal Training Error =  0.303664921466
+
+Linear SVM Model:
+C =  0.0545559478117
+Optimal Test Error =  0.415584415584
+Optimal Validation Error =  0.417391304348
+Optimal Training Error =  0.287958115183
+
+Linear SVM Lasso Coefficients
+Home Team allRushYdsOff -0.0714672707681
+Visitor allPassYdsOff -0.00743360679599
+Home Team bowlRushYdsOff -0.0523638590686
+Home Team bowlPassAttOff 0.00779200618175
+Home Team allPassIntDef 0.0226062334309
+Home Team allRushAttDef -0.0411042096958
+Visitor allPassIntDef -0.0327859219367
+Visitor allPassCompDef 0.00492794649969
+Home Team bowlPassIntDef 0.00304722996062
+Home Team bowlPassCompDef -0.0917843683497
+Visitor bowlPassIntDef 0.0770941110294
+Visitor bowlPassCompDef 0.00326277049048
+Visitor bowlPassYdsDef 0.109078350527
+Visitor bowlScoreDef 0.021322325405
+Visitor bowlTakeaways 0.00518472388121
+Line 0.245650074846
+
+Tree Model on Trimmed Data:
+alpha =  15.1991108295
+Optimal Test Error =  0.376623376623
+Optimal Validation Error =  0.373913043478
+Optimal Training Error =  0.329842931937
+
+Gaussian Kernel SVM Model on Trimmed Data:
+C =  562341.32519
+gamma =  8.25404185268e-09
+Optimal Test Error =  0.350649350649
+Optimal Validation Error =  0.382608695652
+Optimal Training Error =  0.293193717277
+
+Logisitc Regression Model
+Optimal Test Error =  0.350649350649
+Optimal Validation Error =  0.452173913043
+Optimal Training Error =  0.282722513089
+
+Naive Bayes:
+Optimal Test Error =  0.298701298701
+Optimal Validation Error =  0.417391304348
+Optimal Training Error =  0.267015706806
+

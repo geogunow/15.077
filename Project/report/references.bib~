@@ -1,0 +1,49 @@
+@article{scikit-learn,
+ title={Scikit-learn: Machine Learning in {P}ython},
+ author={Pedregosa, F. and Varoquaux, G. and Gramfort, A. and Michel, V.
+         and Thirion, B. and Grisel, O. and Blondel, M. and Prettenhofer, P.
+         and Weiss, R. and Dubourg, V. and Vanderplas, J. and Passos, A. and
+         Cournapeau, D. and Brucher, M. and Perrot, M. and Duchesnay, E.},
+ journal={Journal of Machine Learning Research},
+ volume={12},
+ pages={2825--2830},
+ year={2011}
+}
+
+@misc{Sunshine, 
+	author={Sunshine Forecast Downloadable Data Files},
+	title={College Football Cumulative Statistics File}, 
+	howpublished=\url{http://www.repole.com/sun4cast/data.html}
+}
+
+@ARTICLE{Padron, 
+	author={Padron, A.S. and Sinsay, J.D.}, 
+	journal={CS229, Machine Learning, Stanford University}, 
+	title={Upset Prediction in College Football}, 
+	month = {Autumn},
+	year={2013},
+	howpublished={http://cs229.stanford.edu/proj2013/PadronSinsay-UpsetPredictioninCollegeFootball.pdf}}
+
+@ARTICLE{Liu, 
+	author={Liu, B. and Lai, P.}, 
+	journal={CS229, Machine Learning, Stanford University}, 
+	title={Beating the NCAA Football Point Spread}, 
+	month = {December},
+	year={2010},
+	howpublished=\url{http://cs229.stanford.edu/proj2010/LiuLai-BeatingTheNCAAFootballPointSpread.pdf}}
+
+@ARTICLE{Hamann, 
+	author={John Hamann}, 
+	journal={CS229, Machine Learning, Stanford University}, 
+	title={What It Takes To Win: A Machine Learning Analysis of the College Football Box Score}, 
+	month = {December},
+	year={2011},
+	howpublished=\url{http://cs229.stanford.edu/proj2011/Hamann-WhatItTakesToWin.pdf}}
+
+@ARTICLE{Agrawal, 
+	author={Agrawal, R. and Bhaskar, S. and Sefanski, M.}, 
+	journal={CS229, Machine Learning, Stanford University}, 
+	title={A Better BCS}, 
+	month = {December},
+	year={2010},
+	howpublished=\url{http://cs229.stanford.edu/proj2010/AgrawalBhaskarStefanski-ABetterBCS.pdf}}

@@ -1,0 +1,31 @@
+\begin{thebibliography}{1}
+
+\bibitem{scikit-learn}
+F.~Pedregosa, G.~Varoquaux, A.~Gramfort, V.~Michel, B.~Thirion, O.~Grisel,
+  M.~Blondel, P.~Prettenhofer, R.~Weiss, V.~Dubourg, J.~Vanderplas, A.~Passos,
+  D.~Cournapeau, M.~Brucher, M.~Perrot, and E.~Duchesnay.
+\newblock Scikit-learn: Machine learning in {P}ython.
+\newblock {\em Journal of Machine Learning Research}, 12:2825--2830, 2011.
+
+\bibitem{sunshine}
+Sunshine Forecast Downloadable~Data Files.
+\newblock College football cumulative statistics file.
+\newblock http://www.repole.com/sun4cast/data.html.
+
+\bibitem{Padron}
+A.S. Padron and J.D. Sinsay.
+\newblock Upset prediction in college football.
+\newblock {\em CS229, Machine Learning, Stanford University}, Autumn 2013.
+
+\bibitem{Liu}
+B.~Liu and P.~Lai.
+\newblock Beating the ncaa football point spread.
+\newblock {\em CS229, Machine Learning, Stanford University}, December 2010.
+
+\bibitem{Hamann}
+John Hamann.
+\newblock What it takes to win: A machine learning analysis of the college
+  football box score.
+\newblock {\em CS229, Machine Learning, Stanford University}, December 2011.
+
+\end{thebibliography}

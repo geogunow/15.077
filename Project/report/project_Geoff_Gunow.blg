@@ -1,0 +1,59 @@
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: project_Geoff_Gunow.aux
+The style file: unsrt.bst
+Database file #1: references.bib
+"{" immediately follows a field part---line 33 of file references.bib
+ :  howpublished=\url
+ :                   {http://cs229.stanford.edu/proj2010/LiuLai-BeatingTheNCAAFootballPointSpread.pdf}}
+I'm skipping whatever remains of this entry
+"{" immediately follows a field part---line 41 of file references.bib
+ :  howpublished=\url
+ :                   {http://cs229.stanford.edu/proj2011/Hamann-WhatItTakesToWin.pdf}}
+I'm skipping whatever remains of this entry
+"{" immediately follows a field part---line 49 of file references.bib
+ :  howpublished=\url
+ :                   {http://cs229.stanford.edu/proj2010/AgrawalBhaskarStefanski-ABetterBCS.pdf}}
+I'm skipping whatever remains of this entry
+You've used 5 entries,
+            1791 wiz_defined-function locations,
+            473 strings with 4435 characters,
+and the built_in function-call counts, 1009 in all, are:
+= -- 71
+> -- 74
+< -- 0
++ -- 27
+- -- 22
+* -- 68
+:= -- 187
+add.period$ -- 15
+call.type$ -- 5
+change.case$ -- 5
+chr.to.int$ -- 0
+cite$ -- 5
+duplicate$ -- 38
+empty$ -- 86
+format.name$ -- 22
+if$ -- 206
+int.to.chr$ -- 0
+int.to.str$ -- 5
+missing$ -- 4
+newline$ -- 28
+num.names$ -- 5
+pop$ -- 15
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 19
+stack$ -- 0
+substring$ -- 31
+swap$ -- 5
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 7
+width$ -- 6
+write$ -- 52
+(There were 3 error messages)
